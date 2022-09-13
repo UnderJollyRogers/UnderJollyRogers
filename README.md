@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UnderJollyRogers (Javier Dario Sanjuan De Caro)
 - 👀 I’m interested in robotics, ROS, CAN/CANopen, and Ethercat.
 - 🌱 I’m currently learning JAVA, C/C++, and Python
-- 💞️ I’m looking to collaborate on any project related to my intersts. 
+- 💞️ I’m looking to collaborate on any project related to my interests. 
 - 📫 How to reach me jsanjuan@uwm.edu or jdecaro@uninorte.edu.co
 
 <!---
