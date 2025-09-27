@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @UnderJollyRogers (Javier Dario Sanjuan De Caro)
-- 👀 I’m interested in robotics, ROS, CAN/CANopen, and Ethercat.
-- 🌱 I’m currently learning DRAKE
-- 💞️ I’m looking to collaborate on any project related to my interests. 
-- 📫 How to reach me jsanjuan@uwm.edu or jdecaro@uninorte.edu.co
+# 👋 Hi, I’m **Javier Dario Sanjuan De Caro** (@UnderJollyRogers)  
 
-<!---
-UnderJollyRogers/UnderJollyRogers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 **Assistant Professor**, Department of Mechanical Engineering, Universidad del Norte (Colombia)  
+🎓 **PhD in Engineering**, University of Wisconsin–Milwaukee  
+
+---
+
+## 🔍 Research Interests  
+- Design, modeling, and optimization of **robotic systems** (parallel, serial, and cable-driven)  
+- **Control and system integration**, including model-based and heuristic optimization methods  
+- **Real-time communication protocols** for robotics: ROS, CAN/CANopen, EtherCAT  
+- **Energy systems modeling** with applications to electrification and renewable integration  
+
+---
+
+## 🌱 Current Work  
+- Exploring **Drake** for kinematic and dynamic simulation of robotic systems  
+- Supervising graduate research on **robotics and energy systems**  
+
+---
+
+## 📚 Publications & Academic Profile  
+- [Google Scholar – Javier Sanjuan De Caro](https://scholar.google.com/citations?user=9lDyFs8AAAAJ&hl=es)  
+
+---
+
+## 🤝 Collaboration  
+I welcome opportunities to collaborate on research projects, publications, and proposals in **robotics, control, and energy systems**.  
+
+---
+
+## 📫 Contact  
+- 📧 jsanjuan@uwm.edu  
+- 📧 jdecaro@uninorte.edu.co  
+
